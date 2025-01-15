@@ -43,3 +43,28 @@ You can click on checkbox icon to complete that task.
 Click on the settings icon in navbar to logout.
 
 ## Screenshots
+
+
+![Screenshot 2025-01-15 150538](https://github.com/user-attachments/assets/f09893c8-3db2-4671-a24f-a722bf1200d7)
+
+
+
+![Screenshot 2025-01-15 150611](https://github.com/user-attachments/assets/554c2224-1a85-44db-878a-63a29c5786c9)
+
+
+![Screenshot 2025-01-15 150624](https://github.com/user-attachments/assets/2aaa1942-cef1-439b-ac75-db689d0464f6)
+
+
+![Screenshot 2025-01-15 150757](https://github.com/user-attachments/assets/755b8855-a6a4-419d-a107-da5a9a486dbe)
+
+
+![Screenshot 2025-01-15 150824](https://github.com/user-attachments/assets/bec7b26b-43a9-42d8-8d86-5b2632eb4577)
+
+
+![Screenshot 2025-01-15 150842](https://github.com/user-attachments/assets/5a4ddace-8611-4099-b525-f057fabab191)
+
+
+![Screenshot 2025-01-15 150904](https://github.com/user-attachments/assets/272095c0-4b8d-4211-a18d-5889cff2aec6)
+
+
+![Screenshot 2025-01-15 150919](https://github.com/user-attachments/assets/230b8d1d-aa94-45b6-8713-ede87567475f)
