@@ -36,7 +36,7 @@ function LogOutModal(){
           <Button
             variant="text"
             color="red"
-            onClick={()=>{setOpenModal(!openModal)}
+            onClick={()=>{setOpenModal(!openModal)}}
             className="mr-1"
           >
             <span>Cancel</span>
